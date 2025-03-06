@@ -12,8 +12,8 @@ Este repositório contém minhas configurações personalizadas do **Visual Stud
 
 ### 🔹 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/vscode-settings.git
-cd vscode-settings
+git clone https://github.com/s1ntos/VScode-setup.git
+cd VScode-setup
 ```
 
 ### 🔹 2. Copiar as configurações para o VSCode
